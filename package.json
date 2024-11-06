@@ -2,8 +2,9 @@
   "name": "web-full",
   "displayName": "Web Full",
   "description": "A VS Code extension pack tailored for web development with TypeScript and vanilla HTML, providing useful tools, themes, and productivity boosters.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "gaveone",
+  "repository": "https://github.com/gaveone/web-full",
   "engines": {
     "vscode": "^1.60.0"
   },
